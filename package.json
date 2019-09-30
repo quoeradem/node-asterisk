@@ -1,0 +1,12 @@
+{
+  "name": "node-asterisk",
+  "version": "0.1.0",
+  "description": "A Simple Asterisk Manager Interface client",
+  "keywords": [
+    "asterisk",
+    "ami",
+  ],
+  "main": "index.js",
+  "author": "Trevor Kulhanek",
+  "license": "MIT"
+}
